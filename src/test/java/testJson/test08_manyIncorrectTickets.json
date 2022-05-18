@@ -1,0 +1,31 @@
+{
+  "tickets": [{
+    "origin": "VVO",
+    "stops": 3,
+    "price": 12400
+  }, {
+    "origin": "VVO",
+    "origin_name": "Владивосток",
+    "destination_name": "Тель-Авив",
+    "departure_date": "12.05.18",
+    "departure_time": "19:19",
+    "arrival_date": "12.05.18",
+    "arrival_time": "23:00",
+    "carrier": "S7",
+    "stops": 1,
+    "price": 13100
+  }, {
+  }, {
+    "origin": "VVO",
+    "origin_name": "Владивосток",
+    "destination": "TLV",
+    "destination_name": "Тель-Авив",
+    "departure_date": "12.05.18",
+    "departure_time": "00:00",
+    "arrival_date": "12.05.18",
+    "arrival_time": "23:32",
+    "carrier": "TK",
+    "stops": 3,
+    "price": 12400
+  }]
+}
