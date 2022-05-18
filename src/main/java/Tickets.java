@@ -17,7 +17,7 @@ import java.util.Arrays;
 public class Tickets {
     private static final String origin = "VVO";
     private static final String departure = "TLV";
-    private static final String inputFile = "tickets.json";
+    private static final String inputFile = "resources/tickets.json";
     private static final int percentileNum = 90;
 
     /**
